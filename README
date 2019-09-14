@@ -10,6 +10,7 @@ This program is use for printing heading in patterns of symbols that takes 7 lin
    
    Steps:
    1. First you have to choose a symbol that you want to use for printing the heading.
-   2. Then you have to enter a string which is your heading.... Thats it.
+   2.you can choose "a" for printing the letters by that letters only.
+   3. Then you have to enter a string which is your heading.... Thats it.
    
    Fell free to make any changes.
