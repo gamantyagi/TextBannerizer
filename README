@@ -1,0 +1,15 @@
+This program is use for printing heading in patterns of symbols that takes 7 line vertically and 8 spaces horizontally,like...
+
+@@@@@@@ @     @  @@@@@@@    @@@@     @@@@@@@    @@@@     @     @  @@@@@@@     @     @@@@@    @@@@@@@  @     @   @@@@
+   @    @     @     @      @    @       @      @    @    @     @  @          @ @    @    @      @     @@    @  @    @
+   @    @     @     @     @             @     @          @     @  @         @   @   @     @     @     @ @   @ @
+   @    @@@@@@@     @      @@@@         @      @@@@      @@@@@@@  @@@@@    @     @  @     @     @     @  @  @ @
+   @    @     @     @          @        @          @     @     @  @        @@@@@@@  @     @     @     @   @ @ @   @@@
+   @    @     @     @      @    @       @      @    @    @     @  @        @     @  @    @      @     @    @@  @    @
+   @    @     @  @@@@@@@    @@@@     @@@@@@@    @@@@     @     @  @@@@@@@  @     @  @@@@@    @@@@@@@  @     @   @@@@
+   
+   Steps:
+   1. First you have to choose a symbol that you want to use for printing the heading.
+   2. Then you have to enter a string which is your heading.... Thats it.
+   
+   Fell free to make any changes.
