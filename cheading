@@ -43,7 +43,7 @@ main()
 					if (l[k]==35)	printf("%c",symbol);
 					else	printf(" ");
 					
-					for(delay=0;delay<(66666-2000*len);delay+=0.05)	continue;	//Use for delay before printing next character
+					for(delay=0;delay<(333333/len);delay+=0.05)	continue;	//Use for delay before printing next character
 
 				}				
 			}
